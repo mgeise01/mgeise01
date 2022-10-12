@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mgeise01
 - 👀 I’m interested in technical writing and documenting APIs
 - 🌱 I’m currently learning how to document APIs
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on RESTful APIs.
 - 📫 How to reach me ...
 
 <!---
